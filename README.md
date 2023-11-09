@@ -9,3 +9,6 @@ Performance Metrics: Reports the number of files scanned per second for efficien
 
 # Detection
 Vape.gg ( V4 )
+
+# Showcase
+![](https://i.imgur.com/B6NhxJs.png)
